@@ -26,5 +26,6 @@
   "comment": {
     "configuration": {
     }
-  }
+  },
+  "emoji-style": "atomist"
 }
