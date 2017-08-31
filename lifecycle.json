@@ -2,7 +2,7 @@
   "configuration": {
     "push": {
       "configuration": {
-        "emoji-style": "default",
+        "emoji-style": "atomist",
         "fingerprints": {
           "about-hint": "true",
           "render-unchanged": "true",
@@ -11,6 +11,10 @@
         },
         "build": {
           "style": "decorator"
+        },
+        "generic": {
+          "functions": [
+          ]
         }
       }
     }
